@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KafkaConsumer/1.0.0": {
+        "runtime": {
+          "KafkaConsumer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KafkaConsumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
